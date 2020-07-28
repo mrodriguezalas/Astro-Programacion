@@ -47,9 +47,13 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 - Astronomy Education at the University of Louisville. Seguir las lecciones [Elementary Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Elementary_Astronomy)
 
 ### Radio Astronomía
+- [¿Qué es un radio telescopio](https://public.nrao.edu/telescopes/radio-telescopes/)
 - [¿Qué es el VLASS](https://public.nrao.edu/vlass/)
 - [¿Qué es la radio astronomía](https://public.nrao.edu/radio-astronomy/the-science-of-radio-astronomy/)
 - [Imágenes de VLASS](https://public.nrao.edu/gallery/topic/vlass/)
+- [Agujeros negros en radio](https://public.nrao.edu/radio-astronomy/black-holes/)
+- [Pulsares en radio](https://public.nrao.edu/radio-astronomy/pulsars/)
+- [Exoplanetas](https://public.nrao.edu/radio-astronomy/exoplanets/)
 
 ## Recursos/Información sobre Astronomía + Computación
 - [Harvard Astro Informatics Conference](https://www.astroinformatics2020.org/)

@@ -44,3 +44,8 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 
 ## No sé nada sobre astronomía ¿Dónde comienzo?
 1. Astronomy Education at the University of Louisville. Seguir las lecciones [Elementary Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Elementary_Astronomy)
+
+## Recursos/Información sobre Astronomía + Computación
+- [Harvard Astro Informatics Conference](https://www.astroinformatics2020.org/)
+- [Astronomical Data Analysis Software and Systems](https://www.adass.org/)
+

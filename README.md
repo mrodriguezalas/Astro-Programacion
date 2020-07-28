@@ -14,11 +14,11 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 **Figura 2.** Nebulosa del Cangrejo
 
 ## ¿Por qué cree este repositorio?
-1. Uno de los objetivos de NRAO NINE es establecer un hub virtual de radio astronomía en Costa Rica. Para ser aprovechado por estudiantes, profesionales, e interesados, a nivel nacional y regional, incluyendo Centro América. La creación de este Hub se llevará a cabo a partir de agosto del 2020, y busca crear contenido educativo para estudiantes de física + ciencias, programadores, ingenieros, e interesados en general en astronomía y programación. Esto es un preambulo al contenido que queremos crear.
+1. Uno de los objetivos de NRAO NINE es establecer un hub virtual de radio astronomía en Costa Rica. Para ser aprovechado por estudiantes, profesionales, e interesados, a nivel nacional y regional, incluyendo Centro América y el Caribe. La creación de este Hub se llevará a cabo a partir de agosto del 2020, y busca crear contenido educativo para estudiantes de física + ciencias, programadores, ingenieros, e interesados en general en astronomía y programación. Esto es un preambulo al contenido y los cursos que queremos crear.
 
 1. Uno de los problemas identificados durante las sesiones de creación del Hub es la brecha entre astronomía y programación, en especial para estudiantes de física o ciencias. En este repositorio se presentan cursos introductorios a la programación, utilizando Python.
 
-1. La relación entre astronomía y programación es más cercana de los que se cree. La mayoría de las publicaciones en astronomía hace uso de alguna herramienta de software. Ver [Astronomy and Computing](https://www.journals.elsevier.com/astronomy-and-computing/). Y mucho del software que se utiliza en astronomía busca ser Open-Source, lo cuál busca beneficiar a toda la comunidad, así como reconocer a los ingenieros de software y programadores que toman parte en estos desarrollos, ver [Astronomical Software wants to be Free](https://arxiv.org/abs/0903.3971)
+1. La relación entre astronomía y programación es más cercana de los que se cree. La mayoría de las publicaciones en astronomía hace uso de alguna herramienta de software. Ver [Astronomy and Computing](https://www.journals.elsevier.com/astronomy-and-computing/). Y mucho del software que se utiliza en astronomía busca ser de Fuente-Abierta (Open-Source), lo cuál busca beneficiar a toda la comunidad, así como reconocer a los ingenieros de software y programadores que toman parte en estos desarrollos, ver [Astronomical Software wants to be Free](https://arxiv.org/abs/0903.3971)
 
 1. Para mostrar la relación entre computación y astronomía. Ver [Astronomical Data Analysis Software and Systems](https://www.adass.org/)
 
@@ -35,7 +35,7 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 1. Quiero certificarme en Python. Ver [Python Institute Certifications](https://pythoninstitute.org/certification/)
 
 ### Ciencia de Datos
-1. [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
+1. Libro completo sobre Data Science [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
 1. [Introducción a Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 1. Curso completo de Harvard sobre Data Science [CS109](https://cs109.github.io/2015/index.html)
 

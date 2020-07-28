@@ -40,10 +40,16 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 1. Curso completo de Harvard sobre Data Science [CS109](https://cs109.github.io/2015/index.html)
 
 ### Otros recursos sobre programación/ingeniería de software
-1. [Git y versionamiento](https://git-scm.com/book/en/v2)
+- [Git y versionamiento](https://git-scm.com/book/en/v2)
 
 ## No sé nada sobre astronomía ¿Dónde comienzo?
-1. Astronomy Education at the University of Louisville. Seguir las lecciones [Elementary Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Elementary_Astronomy)
+### Astronomía Elemental
+- Astronomy Education at the University of Louisville. Seguir las lecciones [Elementary Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Elementary_Astronomy)
+
+### Radio Astronomía
+- [¿Qué es el VLASS](https://public.nrao.edu/vlass/)
+- [¿Qué es la radio astronomía](https://public.nrao.edu/radio-astronomy/the-science-of-radio-astronomy/)
+- [Imágenes de VLASS](https://public.nrao.edu/gallery/topic/vlass/)
 
 ## Recursos/Información sobre Astronomía + Computación
 - [Harvard Astro Informatics Conference](https://www.astroinformatics2020.org/)

@@ -33,14 +33,21 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 1. Programación con Python (Parte 1 y 2 en Español) [Programación con Python](https://www.netacad.com/portal/web/self-enroll/c/course-1041605)
 1. Programación científica en Python. [Learning Scientific Programming with Python](https://scipython.com/book/)
 1. Quiero certificarme en Python. Ver [Python Institute Certifications](https://pythoninstitute.org/certification/)
+1. [Estructuras de datos y solución de problemas con Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 ### Ciencia de Datos
 1. Libro completo sobre Data Science [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
 1. [Introducción a Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 1. Curso completo de Harvard sobre Data Science [CS109](https://cs109.github.io/2015/index.html)
 
-### Otros recursos sobre programación/ingeniería de software
+### Aprendizaje de Máquina/Aprendizaje Automático
+- 
+
+### Otros recursos sobre programación/ingeniería de software/Más proyectos
 - [Git y versionamiento](https://git-scm.com/book/en/v2)
+- [Cómo comenzar un blog gratis con Github Pages y Jekyll](https://onextrapixel.com/start-jekyll-blog-github-pages-free/)
+- Resolver problemas matemáticos con programación [Project Euler](https://projecteuler.net/)
+- Variedad de proyectos implementados en Python [Project Based Learning](https://github.com/tuvtran/project-based-learning#python)
 
 ## No sé nada sobre astronomía ¿Dónde comienzo?
 ### Astronomía Elemental

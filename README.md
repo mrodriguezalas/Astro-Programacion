@@ -96,3 +96,8 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
   1. Dar click en la pestaña de Issues en la parte superior de esta página.
   1. Dar click en "New Issue".
   1. Describir su problema, duda, o solicitud de información.
+  
+# Otros enlaces de interés
+- [Programa NINE de NRAO](https://info.nrao.edu/do/odi/broader-impact-programs/Nine)
+- [Alpha-Cen, Astrofísica Centroamericana y del Caribe](https://ecfm.usac.edu.gt/jrsacahui/AstroCentro/Astro.html)
+- [Programa Costa Rica - US Bridge](https://costarica-us-bridge.weebly.com/)

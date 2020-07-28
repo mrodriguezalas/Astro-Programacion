@@ -41,13 +41,32 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 1. Curso completo de Harvard sobre Data Science [CS109](https://cs109.github.io/2015/index.html)
 
 ### Aprendizaje de Máquina/Aprendizaje Automático
-- 
+- [Introducción a Aprendizaje automático](https://www.coursera.org/learn/machine-learning)
+
+#### Cursos Complementarios
+##### Algebra Lineal
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+- [Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
+- [Fundamentals of Linear Algebra](https://www.math.ubc.ca/~carrell/NB.pdf)
+- [Essential Linear Algebra and Analysis](https://math.byu.edu/~klkuttle/EssentialLinearAlgebra.pdf)
+- [Mathematics Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
+##### Cálculo
+- [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+- [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+- [Multivariate Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+##### Probabilidad y Estadística
+- [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/thinkstats.pdf)
+- [Khan Academy](Probabilidad y Estadística)
 
 ### Otros recursos sobre programación/ingeniería de software/Más proyectos
 - [Git y versionamiento](https://git-scm.com/book/en/v2)
 - [Cómo comenzar un blog gratis con Github Pages y Jekyll](https://onextrapixel.com/start-jekyll-blog-github-pages-free/)
 - Resolver problemas matemáticos con programación [Project Euler](https://projecteuler.net/)
 - Variedad de proyectos implementados en Python [Project Based Learning](https://github.com/tuvtran/project-based-learning#python)
+- Tutoriales sobre Python, ML, SQL [Kaggle](https://www.kaggle.com/learn/overview)
 
 ## No sé nada sobre astronomía ¿Dónde comienzo?
 ### Astronomía Elemental
@@ -69,4 +88,6 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 ## Recursos/Información sobre Astronomía + Computación
 - [Harvard Astro Informatics Conference](https://www.astroinformatics2020.org/)
 - [Astronomical Data Analysis Software and Systems](https://www.adass.org/)
+- [Lectures on Astrobiology](https://frontierdevelopmentlab.org/astrobiology/)
+- [Frontier Development Labs](https://frontierdevelopmentlab.org/)
 

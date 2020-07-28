@@ -91,3 +91,8 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 - [Lectures on Astrobiology](https://frontierdevelopmentlab.org/astrobiology/)
 - [Frontier Development Labs](https://frontierdevelopmentlab.org/)
 
+# Quisiera reportar un problema/Quisiera información sobre algún otro tema
+- Por favor usar el Issue Tracker de Github (requiere crear una cuenta gratuita de Github).
+  1. Dar click en la pestaña de Issues en la parte superior de esta página.
+  1. Dar click en "New Issue".
+  1. Describir su problema, duda, o solicitud de información.

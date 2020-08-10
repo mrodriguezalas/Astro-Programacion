@@ -106,9 +106,13 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 ## Web Basics
 - [W3 Schools. HTML/CSS](https://www.w3schools.com/)
 - [FreeCodeCamp. JavaScript, Diseño Web Responsive, Estructuras de Datos](https://www.freecodecamp.org/learn/)
+- [Eloquent Javascript - Full book](https://eloquentjavascript.net/)
 ## Frameworks
 - [Angular](https://angular.io/tutorial)
 - [Django, framework para Python](https://www.djangoproject.com/start/overview/)
+
+## Frontend Web Development
+## Backend Web Development
 
 ***
 

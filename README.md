@@ -59,7 +59,7 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 
 ##### Probabilidad y Estadística
 - [Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/thinkstats.pdf)
-- [Khan Academy](Probabilidad y Estadística)
+- [Khan Academy]()
 
 ### Otros recursos sobre programación/ingeniería de software/Más proyectos
 - [Git y versionamiento](https://git-scm.com/book/en/v2)
@@ -114,6 +114,9 @@ La mayor parte de mi experiencia y mis estudios es en programación y electróni
 ## Frontend Web Development
 ## Backend Web Development
 
+## INDIRA 2021
+- [Presentación computación INDIRA2021](https://docs.google.com/presentation/d/1U3l8Yc_iz2fo3bY7nJWIHPK7lIS2HknvxcJlp_pzXt0/edit?usp=sharing)
+
 ***
 
-![Saturno](https://media.stsci.edu/uploads/image/display_image/4713/STScI-H-p2043a-d-1280x720.png)
+![Saturno](http://www.nasa.gov/sites/default/files/images/225113main_full_jpg_full.jpg)
